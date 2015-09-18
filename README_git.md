@@ -24,7 +24,7 @@ While the information gained in the tutorial is designed to help programmers, no
 
 ## Contents
 
- 1. [Welcome to git!](/#Welcome-to-git)
+ 1. [Welcome to git!](#welcome-to-git)
 
 ## Installing git
 
